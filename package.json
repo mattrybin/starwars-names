@@ -1,0 +1,27 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Get name",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattrybin/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Matt Rybin <contact@mattrybin.com> (http://mattrybin.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattrybin/starwars-names/issues"
+  },
+  "homepage": "https://github.com/mattrybin/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
